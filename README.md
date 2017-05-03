@@ -1,1 +1,1 @@
-# 888Angular2Solutioning
+# 888 Angular 2 Solutioning Sample Project
